@@ -1,4 +1,5 @@
-# Join Kanban Task Manager
+# Join 
+## Kanban Task Manager
 
 ## Description
 Kanban Task Manager is a project inspired by the Kanban System, designed to help users create and organize tasks efficiently. With intuitive drag and drop functions, users can seamlessly manage tasks, assign users, and categorize them based on their workflow.
