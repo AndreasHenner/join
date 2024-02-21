@@ -4,6 +4,10 @@
     height: 100%;
 }
 
+.boardBody {
+    height: 100vh!important;
+}
+
 .position-fixed {
     position: fixed;
 }

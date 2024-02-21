@@ -274,6 +274,7 @@ function openWindow(event, id, IdOfTask) {
   docID("task-area").style.position = "fixed";
   docID("board-input").style.position = "fixed";
   docID("task-window").style.paddingBottom = "100px";
+  docID("boardBody").style.overflow= "hidden";
   event.stopPropagation();
   window.scrollTo(0, 0);
   let backgroundElements = getBackgroundElements();
